@@ -36,3 +36,12 @@ Thumbs.db
 # Logs and test output
 *.log
 output/
+
+Demo.py
+Dynamo.py
+Example1.py
+Example2.py
+requirements.txt
+s3apilambda.py
+s3Dynamo.py
+s3Polly.py
