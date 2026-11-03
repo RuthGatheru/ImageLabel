@@ -1,0 +1,38 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets and environment files
+.env
+*.pem
+*.key
+
+# AWS credentials and config
+.aws/
+credentials
+config.json
+
+# Lambda packages and layers
+*.zip
+layer/
+python/
+package/
+
+# AWS SAM / build output
+.aws-sam/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and test output
+*.log
+output/
